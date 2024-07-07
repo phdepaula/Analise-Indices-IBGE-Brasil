@@ -6,8 +6,8 @@ O foco do estudo será desde o ano de 2016, no entanto, vale ressaltar que devid
 
 Os principais pontos a serem discutidos serão:
 
-Comportamento do índice de desemprego.
-Comportamento do índice de analfabetismo em adultos.
-Comportamento do índice de escolarização em menores de idade.
-Relação entre índice de desemprego e índice de analfabetismo em adultos.
-Relação entre índice de analfabetismo em adultos e índice de escolarização em menores de idade.
+ - Comportamento do índice de desemprego.
+ - Comportamento do índice de analfabetismo em adultos.
+ - Comportamento do índice de escolarização em menores de idade.
+ - Relação entre índice de desemprego e índice de analfabetismo em adultos.
+ - Relação entre índice de analfabetismo em adultos e índice de escolarização em menores de idade.
